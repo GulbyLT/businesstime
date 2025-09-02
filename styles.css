@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+}
+
+.blue {
+    background-color: #1F2937;
+    height: 200px;
+    
+
+}
+
+.header {
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+}
+
+ul {
+    display: flex;
+    gap: 5px;
+    margin: 0px;
+    list-style-type: none;
+    
+}
+
+.toplinks {
+    text-decoration: none;
+}
+
+.whitetop, .whitebottom {
+    background-color: white;
+    height: 200px;
+}
+
+.gray {
+    background-color: #E5E7EB;
+    height: 200px;
+}
