@@ -81,6 +81,11 @@ ul {
     height: 300px;
     width: 550px;
     justify-content: center;
+    border-style: solid;
+    border-color: #0e1116;
+    border-width: 5px;
+    border-radius: 15px;
+
     align-items: center;
 }
 
@@ -116,9 +121,15 @@ ul {
     align-items: center;
 }
 
+.boxsubtext {
+    max-width: 150px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
 .box {
     border-style: solid;
-    border-color: blue;
+    border-color: #1F2937;
     border-radius: 15px;
     height: 150px;
     width: 150px;
