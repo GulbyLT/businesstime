@@ -163,3 +163,54 @@ ul {
     align-self:flex-end;
 
 }
+
+.bottomwhite {
+    padding: 100px 150px;
+}
+
+.hiring {
+    display:flex;
+    background-color: #3882F6;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px 150px;
+    justify-content: space-between;
+}
+
+.hiringtextblock {
+    flex-wrap: wrap;
+    max-width: 600px;
+}
+
+.hiringheader {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-size: 29px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.hiringtext {
+    color: white;
+    margin: 0px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.bottombutton {
+    background-color: #3882F6;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    align-self: center;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 20px;
+}
